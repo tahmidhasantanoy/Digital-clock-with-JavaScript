@@ -10,4 +10,4 @@
 
 ## 🔗 Live hosting link :
 
-Live project link : [https://funny-pony-15be2a.netlify.app/]
+Live project link : [https://resonant-sopapillas-a7ded4.netlify.app/]
